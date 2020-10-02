@@ -1,2 +1,2 @@
 # Golang
-Reposit when practicing Golang
+Reposit practicing Golang
