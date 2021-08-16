@@ -1,2 +1,2 @@
 # Golang
-Reposit practicing Golang
+Repository for studying Go
